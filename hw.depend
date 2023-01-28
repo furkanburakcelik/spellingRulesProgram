@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1638818670 source:c:\users\murat\onedrive - anadolu Üniversitesi\akademik\classes\coursestaugth\algorithms and programming 1\2021-2022\week11\hw\hw\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1638881975 source:c:\users\murat\onedrive\onedrive - anadolu Üniversitesi\akademik\classes\coursestaugth\algorithms and programming 1\2021-2022\ödev\hw\hw\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
